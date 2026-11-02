@@ -1,0 +1,24 @@
+# Compiled Java classes
+*.class
+
+# Dependencies (download MySQL Connector/J separately)
+*.jar
+
+# Archives
+*.rar
+*.zip
+
+# IDE / build
+.vs/
+.idea/
+*.iml
+build/
+out/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Cover graphic (not part of the app)
+Hicham.png
